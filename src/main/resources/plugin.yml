@@ -1,0 +1,5 @@
+name: VylenetworkAPI
+version: '1.0.0'
+main: xyz.vylenix.vylenetworkAPI.VylenetworkAPI
+loadbefore: [Vylenetwork-Bedwars]
+load: STARTUP
